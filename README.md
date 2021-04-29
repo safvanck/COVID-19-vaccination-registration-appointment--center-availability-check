@@ -1,5 +1,7 @@
 # Live alert on COVID-19-vaccination-registration-appointment--center-availability
-Co-WIN is a platform for the citizens of India to Register for COVID-19 vaccination and schedule their vaccination slots at the nearest vaccination centers. This repo helps to find out available centers nearer to you.
+Co-WIN is a platform for the citizens of India to Register for COVID-19 vaccination and schedule their vaccination slots at the nearest vaccination centers. This repo helps to find out live available centers nearer to you.
+
+This is created for engineers who have no time to check Co-win portal every minutes to get vacancies. Just run this script and wait for voice output that matches your nearest center. Book appointment for vaccination without affecting your work/time. 
 
 
 Steps:
@@ -10,6 +12,7 @@ Steps:
 OR
 
 1. Run <i> python remind_me_when_available.py </i> and wait for the alert!
+2. Book an appointment through <a href="https://www.cowin.gov.in/home">Co-win Portal</a> when you get your nearest center.
 
 <hr/>
 
